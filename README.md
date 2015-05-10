@@ -1,6 +1,6 @@
-# [Kodla 2015](http://www.kodla.co)
+# Kodla 2015
 
-The source of my presentation in Kodla 2015.
+The source of my presentation in Kodla 2015. [www.kodla.co](http://www.kodla.co)
 
 **Introduction to Swift & Git-Flow**
 
