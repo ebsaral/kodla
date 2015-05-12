@@ -13,5 +13,9 @@ Swift sources:
 - [Official Swift Tutorial - Apple](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html)
 - [Unofficial Swift Tutorial - Learn Swift](http://www.learnswift.tips/)
 
+Git-flow sources:
+- [Workflows from Atlassian](https://www.atlassian.com/git/workflows#!workflow-gitflow)
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
 Contact:
 - [@ebsaral](http://www.twitter.com/ebsaral)
